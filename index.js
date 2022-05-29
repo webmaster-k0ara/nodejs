@@ -29,7 +29,7 @@ app.get('/about', function (req, res) {
 
 app.get('/api/v1/user', function (req, res) {
   res.send({
-    name:"mike",
+    name:"marsy",
     age:30
   });
 });
